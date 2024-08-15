@@ -1,1 +1,1 @@
-coursera tutorials
+coursera projects
